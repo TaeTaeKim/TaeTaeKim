@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taetaekim&label=Profile%20views&color=0e75b6&style=flat" alt="taetaekim" /> </p>
 
-- 🔭 I’m currently working on [Highway Traffic prediction](https://github.com/TaeTaeKim/Traffic_volume_predcition)
+- 🔭 I’m currently working on [Text_classification](https://childlike-skunk-983.notion.site/NLP-7c3556149a7448a0af51e92de0e55ccd)
 
 - 🌱 I’m currently learning at **YearDreamSchool, Java, Docker, Text_classfication**
 
