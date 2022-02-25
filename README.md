@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taetaekim&label=Profile%20views&color=0e75b6&style=flat" alt="taetaekim" /> </p>
 
-- 🔭 I’m currently working on [Text_classification](https://childlike-skunk-983.notion.site/NLP-7c3556149a7448a0af51e92de0e55ccd)
+- 🔭 I’m currently working on [Text_classification_Study](https://childlike-skunk-983.notion.site/NLP-7c3556149a7448a0af51e92de0e55ccd) , [Text_Classification_Git Link](https://github.com/TaeTaeKim/NLP_Text_Classification)
 
-- 🌱 I’m currently learning at **YearDreamSchool, Java, Docker, Text_classfication**
+- 🌱 I’m currently learning at **YearDreamSchool**
 
 - 📫 How to reach me **hc07car@gmail.com**
 
