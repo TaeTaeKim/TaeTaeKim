@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hc07car@gmail.com**
 
-- 📄 Notin Page : <a href='https://childlike-skunk-983.notion.site/Portfolio-bedb550405a54effae790124f059ee3c'>Taeyun Notion</a>
+- 📄 Notion Page : <a href='https://childlike-skunk-983.notion.site/Portfolio-bedb550405a54effae790124f059ee3c'>Taeyun Notion</a>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taetaekim" alt="taetaekim" /></a> </p> -->
 <h2 align="center">Languages and Tools:</h3>
