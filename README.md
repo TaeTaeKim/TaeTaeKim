@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taetaekim&label=Profile%20views&color=0e75b6&style=flat" alt="taetaekim" /> </p>
 
-- 🔭 I’m currently working on : DACON "Hand Motion Classification"
+- 🔭 I’m currently working on : Cooling system
 
-- 🌱 I’m currently learning at **YearDreamSchool**
+- 🌱 I’m currently working at **SCSm**
 
 - 📫 How to reach me **hc07car@gmail.com**
 
