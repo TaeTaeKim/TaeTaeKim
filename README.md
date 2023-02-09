@@ -12,7 +12,7 @@
 - 📄 Notion Page : <a href='https://taete-portfolio.notion.site/bedb550405a54effae790124f059ee3c'>Taeyun Notion Porfolio</a>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taetaekim" alt="taetaekim" /></a> </p> -->
-<h2 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
     <h4>Language</h4>
     <p>
@@ -60,7 +60,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
     </p>      
 </p>
-<h2 align="center">Git's Stats</h3>
+<h2 align="center">Git's Stats</h2>
 <p>
     <p>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taetaekim&show_icons=true&theme=merko&locale=en&layout=compact" alt="taetaekim" />
