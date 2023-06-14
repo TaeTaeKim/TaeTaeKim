@@ -60,10 +60,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
     </p>      
 </p>
-<h2 align="center">Git's Stats</h2>
+<!-- <h2 align="center">Git's Stats</h2>
 <p>
     <p>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taetaekim&show_icons=true&theme=merko&locale=en&layout=compact" alt="taetaekim" />
     </p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taetaekim&show_icons=true&theme=dracula&locale=en" alt="taetaekim" /></p>
-</p>
+</p> -->
