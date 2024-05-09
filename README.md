@@ -8,5 +8,3 @@
 - 🌱 I’m currently working at **EXEM**
 
 - 📫 How to reach me **hc07car@gmail.com**
-
-- 📄 Notion Page : <a href='#'>Taeyun Notion Porfolio</a>
