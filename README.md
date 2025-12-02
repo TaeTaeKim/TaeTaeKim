@@ -5,6 +5,6 @@
 
 <!-- - 🔭 I’m currently working on : Cooling system -->
 
-- 🌱 I’m currently working at **EXEM**
+<!-- 🌱 I’m currently working at **EXEM** -->
 
 - 📫 How to reach me **hc07car@gmail.com**
